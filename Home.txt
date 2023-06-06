@@ -1,2 +1,3 @@
 archivo para ignorar y ver ejemplo de gitignore 
 👾s
+Prueba del 6 de junio equipo Sala 3
