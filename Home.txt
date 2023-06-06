@@ -1,0 +1,2 @@
+archivo para ignorar y ver ejemplo de gitignore 
+👾s
